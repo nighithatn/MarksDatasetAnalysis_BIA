@@ -6,6 +6,8 @@ Dataset creation and analysis project with NumPy, Pandas, and Matplotlib.
 A beginner-friendly Python project for analyzing student marks, computing averages, identifying top performers, and generating visualizations using matplotlib.
 This project is ideal for learning Python basics such as lists, dictionaries, functions, and plotting.
 
+---
+
 🚀 FEATURES
 
 ✔️ Accepts student names and marks in 3 subjects
@@ -22,6 +24,8 @@ This project is ideal for learning Python basics such as lists, dictionaries, fu
 
 ✔️ Clean and easy-to-understand Python code
 
+---
+
 📂 PROJECT STRUCTURE
 MarksDatasetAnalysis/
 │
@@ -33,6 +37,7 @@ MarksDatasetAnalysis/
 |
 └── README.md                  # Project documentation
 
+---
 
 🧠 FUNCTIONS INCLUDED
 
@@ -48,6 +53,8 @@ word_summary(sentence)
 
 ✔️ Frequency of each word
 
+---
+
 📊 PLOT EXAMPLES
 
 
@@ -60,6 +67,8 @@ The script creates:
 ✔️ Pie chart: subject-wise average
 
 Plots are saved automatically in the plots/ folder and show directly in VS Code when running the script.
+
+---
 
 ▶️ HOW TO RUN
 
@@ -88,6 +97,8 @@ students = {
     "Charlie": [95, 92, 90]
 }
 
+---
+
 📌 Future Improvements
 
 Add CSV import/export
@@ -97,6 +108,8 @@ Add GUI using Tkinter
 Add statistical analysis functions
 
 Convert into a full dashboard with charts
+
+---
 
 👩‍💻 AUTHOR
 
