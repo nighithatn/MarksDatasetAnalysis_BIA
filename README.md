@@ -42,22 +42,22 @@ Returns a list of students with the highest average marks.
 
 word_summary(sentence)
 
-Total number of words
+✔️ Total number of words
 
-Unique word count
+✔️ Unique word count
 
-Frequency of each word
+✔️ Frequency of each word
 
 📊 PLOT EXAMPLES
 
 
 The script creates:
 
-Bar plot: student average marks
+✔️ Bar plot: student average marks
 
-Line plot: marks comparison
+✔️ Line plot: marks comparison
 
-Pie chart: subject-wise average
+✔️ Pie chart: subject-wise average
 
 Plots are saved automatically in the plots/ folder and show directly in VS Code when running the script.
 
