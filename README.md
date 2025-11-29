@@ -1,5 +1,6 @@
 # Python_MarksDatasetAnalysis_BIA
 Dataset creation and analysis project with NumPy, Pandas, and Matplotlib.
+
 📘 MarksDatasetAnalysis
 
 A beginner-friendly Python project for analyzing student marks, computing averages, identifying top performers, and generating visualizations using matplotlib.
@@ -25,8 +26,11 @@ This project is ideal for learning Python basics such as lists, dictionaries, fu
 MarksDatasetAnalysis/
 │
 ├── marks_analysis.py          # Main Python script
+|
 ├── data/                      # (Optional) Folder for CSV files
+|
 ├── plots/                     # Auto-generated plots saved here
+|
 └── README.md                  # Project documentation
 
 
