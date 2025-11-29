@@ -35,6 +35,7 @@ MarksDatasetAnalysis/
 
 
 🧠 FUNCTIONS INCLUDED
+
 get_top_students(data_dict)
 
 Returns a list of students with the highest average marks.
@@ -49,6 +50,7 @@ Frequency of each word
 
 📊 PLOT EXAMPLES
 
+
 The script creates:
 
 Bar plot: student average marks
@@ -61,6 +63,7 @@ Plots are saved automatically in the plots/ folder and show directly in VS Code 
 
 ▶️ HOW TO RUN
 
+
 Install required library:
 
 pip install matplotlib
@@ -69,6 +72,7 @@ pip install matplotlib
 Run the script:
 
 python marks_analysis.py
+
 
 
 The plots will:
@@ -96,5 +100,6 @@ Convert into a full dashboard with charts
 
 👩‍💻 AUTHOR
 
-Nighitha TN
+Nighitha T N
+
 Marks Analysis Project for Python Practice
